@@ -3,10 +3,15 @@
 <h3 align="left">A passionate learner and developer from Bangladesh</h3>
 
 - :office: &nbsp;I'm a **[University Student](https://daffodilvarsity.edu.bd/)**
+
 - :seedling: &nbsp;I’m currently learning **Android Development**
+
 - :speech_balloon: &nbsp;I like to talk about **Nothing**
+
 - :mailbox: &nbsp;Ask me anything on my **[Issues Page](https://github.com/Mahmud0808/Mahmud0808/issues)**
+
 - :computer: &nbsp;Connect with me on **[Telegram](https://t.me/DrDisagree)**
+
 - :eyes: Fun fact **I have no special talent**
 
 <h2 align="left" id="mahmud0808-social">Connect With Me</h2>
@@ -20,14 +25,14 @@
 <a href="https://github.com/Mahmud0808/Iconify">
   <picture>
   <source 
-    srcset="https://github-readme-stats.vercel.app/api/pin/?username=mahmud0808&repo=iconify&theme=dracula&hide_border=true&show_icons=true&icon_color=ffb6c1"
+    srcset="https://github-readme-stats.vercel.app/api/pin/?username=mahmud0808&repo=iconify&border_color=30363D&theme=dracula&show_icons=true&icon_color=ffb6c1&border_radius=0&bg_color=00000000"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api/pin/?username=mahmud0808&repo=iconify&theme=vue&show_icons=true"
+    srcset="https://github-readme-stats.vercel.app/api/pin/?username=mahmud0808&repo=iconify&theme=buefy&border_color=808080&show_icons=true&border_radius=0&bg_color=00000000"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mahmud0808&repo=iconify&theme=vue&show_icons=true" alt="Iconify" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mahmud0808&repo=iconify&theme=buefy&border_color=808080&show_icons=true&border_radius=0&bg_color=00000000" alt="Iconify" />
   </picture>
 </a>
 
@@ -142,42 +147,19 @@
 
 > My activities and statistics on GitHub. Updated every 4 hours.
 
-<a href="#mahmud0808-stats">
-  <picture>
-  <source 
-    srcset="https://github-readme-stats.vercel.app/api?username=mahmud0808&theme=dracula&show_icons=true&hide_border=true&icon_color=ffb6c1&text_bold=false&hide=issues,contribs&count_private=true&include_all_commits=true"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=mahmud0808&theme=vue&show_icons=true&text_bold=false&hide=issues,contribs&count_private=true&include_all_commits=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=mahmud0808&theme=vue&show_icons=true&text_bold=false&hide=issues,contribs&count_private=true&include_all_commits=true" alt="Stats" />
-  </picture>
-</a>
+| <a href="#mahmud0808-stats"><picture><source srcset="https://github-readme-stats.vercel.app/api?username=mahmud0808&theme=dracula&text_bold=false&hide_border=true&bg_color=00000000&icon_color=ffb6c1&hide=issues,contribs&count_private=true&include_all_commits=true" media="(prefers-color-scheme: dark)" /><source srcset="https://github-readme-stats.vercel.app/api?username=mahmud0808&theme=buefy&show_icons=true&hide_border=true&text_bold=false&hide=issues,contribs&count_private=true&include_all_commits=true&bg_color=00000000" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" /><img src="https://github-readme-stats.vercel.app/api?username=mahmud0808&theme=buefy&show_icons=true&hide_border=true&text_bold=false&hide=issues,contribs&count_private=true&include_all_commits=true&bg_color=00000000" alt="Stats" /></picture></a> | <a href="#mahmud0808-stats"><picture><source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmud0808&layout=compact&theme=dracula&text_bold=false&hide_border=true&bg_color=00000000" media="(prefers-color-scheme: dark)" /><source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmud0808&layout=compact&theme=buefy&text_bold=false&hide_border=true&bg_color=00000000" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmud0808&layout=compact&theme=buefy&text_bold=false&hide_border=true" alt="Top Langs" /></picture></a> |
+| ------------- | ------------- |
 
 <a href="#mahmud0808-stats">
   <picture>
   <source 
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmud0808&layout=compact&theme=dracula&text_bold=false&hide_border=true"
+    srcset="https://github-readme-streak-stats.herokuapp.com?user=Mahmud0808&theme=dracula&border_radius=0&background=FFFFFF00&border=30363D&stroke=30363D"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmud0808&layout=compact&theme=vue&text_bold=false"
+    srcset="https://github-readme-streak-stats.herokuapp.com?user=Mahmud0808&theme=buefy&border_radius=0&background=FFFFFF00&border=30363D&stroke=30363D"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmud0808&layout=compact&theme=vue&text_bold=false" alt="Top Langs" />
-  </picture>
-
-  <picture>
-  <source 
-    srcset="https://github-readme-streak-stats.herokuapp.com/?user=mahmud0808&theme=dracula&text_bold=false&hide_border=true"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-streak-stats.herokuapp.com/?user=mahmud0808&theme=vue&text_bold=false"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahmud0808&theme=vue&text_bold=false" alt="Contributions" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Mahmud0808&theme=buefy&border_radius=0&background=FFFFFF00&border=30363D&stroke=30363D" alt="Contributions" />
   </picture>
 </a>
