@@ -2,15 +2,15 @@
 <h2 align="left" id="mahmud0808-title">:wave: Hello there! I'm Mahmudul Hasan</h1>
 <h3 align="left">A passionate learner and developer from Bangladesh</h3>
 
-- :office: &nbsp;I'm a **[University Student](https://daffodilvarsity.edu.bd/)**
+- :office: I'm an **[Undergraduate Student](https://daffodilvarsity.edu.bd/)**
 
-- :seedling: &nbsp;I’m currently learning **Android Development**
+- :seedling: Currently learning **[Android Development](https://developer.android.com/)**
 
-- :speech_balloon: &nbsp;I like to talk about **Nothing**
+- :speech_balloon: I like to talk about **[Doing Nothing](https://www.wikihow.com/Do-Nothing)**
 
-- :mailbox: &nbsp;Ask me anything on my **[Issues Page](https://github.com/Mahmud0808/Mahmud0808/issues)**
+- :mailbox: Ask me anything at **[Discussions](https://github.com/Mahmud0808/Mahmud0808/discussions/new)**
 
-- :computer: &nbsp;Connect with me on **[Telegram](https://t.me/DrDisagree)**
+- :computer: Connect with me on **[Telegram](https://t.me/DrDisagree)**
 
 - :eyes: Fun fact **I have no special talent**
 
@@ -20,7 +20,7 @@
 
 [<img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">](https://facebook.com/DrDisagree) [<img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/DrDisagree) [<img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">](https://t.me/DrDisagree) [<img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">](https://instagram.com/DrDisagree) [<img alt="Reddit" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white">](https://reddit.com/u/DrDisagree) [<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:crazymahmud08@gmail.com)
 
-<h2 align="left" id="mahmud0808-pin">Pinned Repository</h2>
+<h2 align="left" id="mahmud0808-pin">Pinned Repositories</h2>
 
 <a href="https://github.com/Mahmud0808/Iconify">
   <picture>
