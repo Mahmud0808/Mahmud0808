@@ -34,49 +34,49 @@
   <tr>
     <td align="center" width="98">
       <a href="#mahmud0808-tech">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="48" height="48" alt="" />
+        <img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="" />
       </a>
       <br>C
     </td>
     <td align="center" width="98">
       <a href="#mahmud0808-tech">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="" />
+        <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="" />
       </a>
       <br>C++
     </td>
     <td align="center" width="98">
       <a href="#mahmud0808-tech">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" height="48" alt="" />
+        <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="" />
       </a>
       <br>Java
     </td>
     <td align="center" width="98">
       <a href="#mahmud0808-tech">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="" />
+        <img src="https://skillicons.dev/icons?i=py" width="48" height="48" alt="" />
       </a>
       <br>Python
     </td>
     <td align="center" width="98">
       <a href="#mahmud0808-tech">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" alt="" />
+        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="" />
       </a>
       <br>HTML5
     </td>
     <td align="center" width="98">
       <a href="#mahmud0808-tech">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" alt="" />
+        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="" />
       </a>
       <br>CSS3
     </td>
     <td align="center" width="98">
       <a href="#mahmud0808-tech">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="" />
+        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="" />
       </a>
       <br>Git
     </td>
     <td align="center" width="98">
       <a href="#mahmud0808-tech">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="48" height="48" alt="" />
+        <img src="https://skillicons.dev/icons?i=arduino" width="48" height="48" alt="" />
       </a>
       <br>Arduino
     </td>
@@ -84,25 +84,25 @@
   <tr>
     <td align="center" width="98">
       <a href="#mahmud0808-tech">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="" />
+        <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="" />
       </a>
       <br>Java<br>Script
     </td>
     <td align="center" width="98">
       <a href="#mahmud0808-tech">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="" />
+        <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="" />
       </a>
       <br>React<br>JS
     </td>
     <td align="center" width="98">
       <a href="#mahmud0808-tech">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="48" height="48" alt="" />
+        <img src="https://skillicons.dev/icons?i=androidstudio" width="48" height="48" alt="" />
       </a>
       <br>Android<br>Studio
     </td>
     <td align="center" width="98">
       <a href="#mahmud0808-tech">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" height="48" alt="" />
+        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="" />
       </a>
       <br>VS<br>Code
     </td>
