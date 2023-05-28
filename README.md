@@ -114,21 +114,35 @@
     </td>
     <td align="center" width="98">
       <a href="#mahmud0808-tech">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="48" height="48" alt="" />
+        <img src="https://skillicons.dev/icons?i=ps" width="48" height="48" alt="" />
       </a>
       <br>Adobe<br>Photoshop
     </td>
     <td align="center" width="98">
       <a href="#mahmud0808-tech">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="48" height="48" alt="" />
+        <img src="https://skillicons.dev/icons?i=ai" width="48" height="48" alt="" />
       </a>
       <br>Adobe<br>Illustrator
     </td>
     <td align="center" width="98">
       <a href="#mahmud0808-tech">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" width="48" height="48" alt="" />
+        <img src="https://skillicons.dev/icons?i=xd" width="48" height="48" alt="" />
       </a>
       <br>Adobe<br>XD
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="98">
+      <a href="#mahmud0808-tech">
+        <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="" />
+      </a>
+      <br>MySQL
+    </td>
+    <td align="center" width="98">
+      <a href="#mahmud0808-tech">
+        <img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="" />
+      </a>
+      <br>Bash
     </td>
   </tr>
 </table>
