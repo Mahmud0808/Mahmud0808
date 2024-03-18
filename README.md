@@ -49,6 +49,11 @@
     </td>
     <td align="center" width="98">
       <a href="#mahmud0808-tech">
+        <img src="https://skillicons.dev/icons?i=kotlin" width="48" height="48" alt="" />
+      </a>
+    </td>
+    <td align="center" width="98">
+      <a href="#mahmud0808-tech">
         <img src="https://skillicons.dev/icons?i=py" width="48" height="48" alt="" />
       </a>
     </td>
@@ -67,11 +72,6 @@
         <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="" />
       </a>
     </td>
-    <td align="center" width="98">
-      <a href="#mahmud0808-tech">
-        <img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="" />
-      </a>
-    </td>
   </tr>
   <tr>
     <td align="center" width="98">
@@ -84,6 +84,9 @@
       Java
     </td>
     <td align="center" width="98">
+      Kotlin
+    </td>
+    <td align="center" width="98">
       Python
     </td>
     <td align="center" width="98">
@@ -94,9 +97,6 @@
     </td>
     <td align="center" width="98">
       MySQL
-    </td>
-    <td align="center" width="98">
-      Bash
     </td>
   </tr>
   <tr>
@@ -170,6 +170,11 @@
   <tr>
     <td align="center" width="98">
       <a href="#mahmud0808-tech">
+        <img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="" />
+      </a>
+    </td>
+    <td align="center" width="98">
+      <a href="#mahmud0808-tech">
         <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="" />
       </a>
     </td>
@@ -180,6 +185,9 @@
     </td>
   </tr>
   <tr>
+    <td align="center" width="98">
+      Bash
+    </td>
     <td align="center" width="98">
       Git
     </td>
