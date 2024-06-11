@@ -93,10 +93,10 @@
       Dart
     </td>
     <td align="center" width="98">
-      Java<br>Script
+      JavaScript
     </td>
     <td align="center" width="98">
-      React<br>JS
+      React
     </td>
   </tr>
   <tr>
