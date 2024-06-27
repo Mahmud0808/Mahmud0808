@@ -64,7 +64,7 @@
     </td>
     <td align="center" width="98">
       <a href="#mahmud0808-tech">
-        <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="" />
+        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="" />
       </a>
     </td>
     <td align="center" width="98">
@@ -93,7 +93,7 @@
       Dart
     </td>
     <td align="center" width="98">
-      JavaScript
+      Node.js
     </td>
     <td align="center" width="98">
       React
@@ -137,7 +137,7 @@
     </td>
     <td align="center" width="98">
       <a href="#mahmud0808-tech">
-        <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="" />
+        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="" />
       </a>
     </td>
   </tr>
@@ -164,18 +164,33 @@
       Adobe<br>XD
     </td>
     <td align="center" width="98">
-      MySQL
+      Git
     </td>
   </tr>
   <tr>
     <td align="center" width="98">
       <a href="#mahmud0808-tech">
-        <img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="" />
+        <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="" />
       </a>
     </td>
     <td align="center" width="98">
       <a href="#mahmud0808-tech">
-        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="" />
+        <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="" />
+      </a>
+    </td>
+    <td align="center" width="98">
+      <a href="#mahmud0808-tech">
+        <img src="https://skillicons.dev/icons?i=mongo" width="48" height="48" alt="" />
+      </a>
+    </td>
+    <td align="center" width="98">
+      <a href="#mahmud0808-tech">
+        <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="" />
+      </a>
+    </td>
+    <td align="center" width="98">
+      <a href="#mahmud0808-tech">
+        <img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="" />
       </a>
     </td>
     <td align="center" width="98">
@@ -196,10 +211,19 @@
   </tr>
   <tr>
     <td align="center" width="98">
-      Bash
+      MySQL
     </td>
     <td align="center" width="98">
-      Git
+      Firebase
+    </td>
+    <td align="center" width="98">
+      MongoDB
+    </td>
+    <td align="center" width="98">
+      JavaScript
+    </td>
+    <td align="center" width="98">
+      Bash
     </td>
     <td align="center" width="98">
       Arduino
