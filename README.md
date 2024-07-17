@@ -72,6 +72,11 @@
         <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="" />
       </a>
     </td>
+    <td align="center" width="98">
+      <a href="#mahmud0808-tech">
+        <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="" />
+      </a>
+    </td>
   </tr>
   <tr>
     <td align="center" width="98">
@@ -98,8 +103,16 @@
     <td align="center" width="98">
       React
     </td>
+    <td align="center" width="98">
+      Next.js
+    </td>
   </tr>
   <tr>
+    <td align="center" width="98">
+      <a href="#mahmud0808-tech">
+        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="" />
+      </a>
+    </td>
     <td align="center" width="98">
       <a href="#mahmud0808-tech">
         <img src="https://skillicons.dev/icons?i=androidstudio" width="48" height="48" alt="" />
@@ -137,11 +150,14 @@
     </td>
     <td align="center" width="98">
       <a href="#mahmud0808-tech">
-        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="" />
+        <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="" />
       </a>
     </td>
   </tr>
   <tr>
+    <td align="center" width="98">
+      Git
+    </td>
     <td align="center" width="98">
       Android<br>Studio
     </td>
@@ -164,7 +180,7 @@
       Adobe<br>XD
     </td>
     <td align="center" width="98">
-      Git
+      Figma
     </td>
   </tr>
   <tr>
