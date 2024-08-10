@@ -4,7 +4,7 @@
 
 - :office: I'm an **[Undergraduate Student](https://daffodilvarsity.edu.bd/)**
 
-- :seedling: Currently learning **[Android](https://developer.android.com/)** & **[Web Development](https://www.w3schools.com/whatis/)**
+- :seedling: Currently learning **[Android](https://developer.android.com/)** & **[Web Development](https://www.geeksforgeeks.org/web-development/)**
 
 - :speech_balloon: I like to talk about **[Doing Nothing](https://www.wikihow.com/Do-Nothing)**
 
