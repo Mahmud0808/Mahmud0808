@@ -116,17 +116,17 @@
   <tr>
     <td align="center" width="98">
       <a href="#mahmud0808-tech">
-        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="" />
-      </a>
-    </td>
-    <td align="center" width="98">
-      <a href="#mahmud0808-tech">
         <img src="https://skillicons.dev/icons?i=androidstudio" width="48" height="48" alt="" />
       </a>
     </td>
     <td align="center" width="98">
       <a href="#mahmud0808-tech">
         <img src="https://skillicons.dev/icons?i=flutter" width="48" height="48" alt="" />
+      </a>
+    </td>
+    <td align="center" width="98">
+      <a href="#mahmud0808-tech">
+        <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/jetpackcompose-auto.svg" width="48" height="48" alt="" />
       </a>
     </td>
     <td align="center" width="98">
@@ -162,13 +162,13 @@
   </tr>
   <tr>
     <td align="center" width="98">
-      Git
-    </td>
-    <td align="center" width="98">
       Android<br>Studio
     </td>
     <td align="center" width="98">
       Flutter
+    </td>
+    <td align="center" width="98">
+      Jetpack<br>Compose
     </td>
     <td align="center" width="98">
       VS<br>Code
@@ -190,6 +190,11 @@
     </td>
   </tr>
   <tr>
+    <td align="center" width="98">
+      <a href="#mahmud0808-tech">
+        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="" />
+      </a>
+    </td>
     <td align="center" width="98">
       <a href="#mahmud0808-tech">
         <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="" />
@@ -232,6 +237,9 @@
     </td>
   </tr>
   <tr>
+    <td align="center" width="98">
+      Git
+    </td>
     <td align="center" width="98">
       MySQL
     </td>
