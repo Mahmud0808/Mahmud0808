@@ -18,7 +18,7 @@
 
 > You can connect with me in following ways.
 
-[<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/drdisagree) [<img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">](https://facebook.com/MHKhan08) [<img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white">](https://twitter.com/DrDisagree) [<img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">](https://t.me/DrDisagree) [<img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">](https://instagram.com/DrDisagree) [<img alt="Reddit" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white">](https://reddit.com/u/DrDisagree) [<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:crazymahmud08@gmail.com)
+[<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/drdisagree) [<img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">](https://facebook.com/MHKhan08) [<img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white">](https://twitter.com/DrDisagree) [<img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">](https://t.me/DrDisagree) [<img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">](https://instagram.com/DrDisagree) [<img alt="Reddit" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white">](https://reddit.com/u/DrDisagree) [<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:mhofficial2020@gmail.com)
 
 <h2 align="left" id="mahmud0808-social">Support Me</h2>
 
@@ -40,65 +40,65 @@
   <tr>
     <td align="center" width="98">
       <a href="#mahmud0808-tech">
-        <img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="" />
+        <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/kotlin-auto.svg" width="48" height="48" alt="" />
       </a>
     </td>
     <td align="center" width="98">
       <a href="#mahmud0808-tech">
-        <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="" />
+        <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/java-auto.svg" width="48" height="48" alt="" />
       </a>
     </td>
     <td align="center" width="98">
       <a href="#mahmud0808-tech">
-        <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="" />
+        <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/python-auto.svg" width="48" height="48" alt="" />
       </a>
     </td>
     <td align="center" width="98">
       <a href="#mahmud0808-tech">
-        <img src="https://skillicons.dev/icons?i=kotlin" width="48" height="48" alt="" />
+        <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/c.svg" width="48" height="48" alt="" />
       </a>
     </td>
     <td align="center" width="98">
       <a href="#mahmud0808-tech">
-        <img src="https://skillicons.dev/icons?i=py" width="48" height="48" alt="" />
+        <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/cpp.svg" width="48" height="48" alt="" />
       </a>
     </td>
     <td align="center" width="98">
       <a href="#mahmud0808-tech">
-        <img src="https://skillicons.dev/icons?i=dart" width="48" height="48" alt="" />
+        <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/dart-auto.svg" width="48" height="48" alt="" />
       </a>
     </td>
     <td align="center" width="98">
       <a href="#mahmud0808-tech">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="" />
+        <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/nodejs-auto.svg" width="48" height="48" alt="" />
       </a>
     </td>
     <td align="center" width="98">
       <a href="#mahmud0808-tech">
-        <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="" />
+        <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/react-auto.svg" width="48" height="48" alt="" />
       </a>
     </td>
     <td align="center" width="98">
       <a href="#mahmud0808-tech">
-        <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="" />
+        <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/nextjs-auto.svg" width="48" height="48" alt="" />
       </a>
     </td>
   </tr>
   <tr>
     <td align="center" width="98">
-      C
-    </td>
-    <td align="center" width="98">
-      C++
+      Kotlin
     </td>
     <td align="center" width="98">
       Java
     </td>
     <td align="center" width="98">
-      Kotlin
+      Python
     </td>
     <td align="center" width="98">
-      Python
+      C
+    </td>
+    <td align="center" width="98">
+      C++
     </td>
     <td align="center" width="98">
       Dart
@@ -116,22 +116,12 @@
   <tr>
     <td align="center" width="98">
       <a href="#mahmud0808-tech">
-        <img src="https://skillicons.dev/icons?i=androidstudio" width="48" height="48" alt="" />
+        <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/androidstudio-auto.svg" width="48" height="48" alt="" />
       </a>
     </td>
     <td align="center" width="98">
       <a href="#mahmud0808-tech">
-        <img src="https://skillicons.dev/icons?i=flutter" width="48" height="48" alt="" />
-      </a>
-    </td>
-    <td align="center" width="98">
-      <a href="#mahmud0808-tech">
-        <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/jetpackcompose-auto.svg" width="48" height="48" alt="" />
-      </a>
-    </td>
-    <td align="center" width="98">
-      <a href="#mahmud0808-tech">
-        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="" />
+        <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/vscode-auto.svg" width="48" height="48" alt="" />
       </a>
     </td>
     <td align="center" width="98">
@@ -141,22 +131,32 @@
     </td>
     <td align="center" width="98">
       <a href="#mahmud0808-tech">
-        <img src="https://skillicons.dev/icons?i=ps" width="48" height="48" alt="" />
+        <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/flutter-auto.svg" width="48" height="48" alt="" />
       </a>
     </td>
     <td align="center" width="98">
       <a href="#mahmud0808-tech">
-        <img src="https://skillicons.dev/icons?i=ai" width="48" height="48" alt="" />
+        <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/jetpackcompose-auto.svg" width="48" height="48" alt="" />
       </a>
     </td>
     <td align="center" width="98">
       <a href="#mahmud0808-tech">
-        <img src="https://skillicons.dev/icons?i=xd" width="48" height="48" alt="" />
+        <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/photoshop.svg" width="48" height="48" alt="" />
       </a>
     </td>
     <td align="center" width="98">
       <a href="#mahmud0808-tech">
-        <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="" />
+        <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/illustrator.svg" width="48" height="48" alt="" />
+      </a>
+    </td>
+    <td align="center" width="98">
+      <a href="#mahmud0808-tech">
+        <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/xd.svg" width="48" height="48" alt="" />
+      </a>
+    </td>
+    <td align="center" width="98">
+      <a href="#mahmud0808-tech">
+        <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/figma-auto.svg" width="48" height="48" alt="" />
       </a>
     </td>
   </tr>
@@ -165,16 +165,16 @@
       Android<br>Studio
     </td>
     <td align="center" width="98">
-      Flutter
-    </td>
-    <td align="center" width="98">
-      Jetpack<br>Compose
-    </td>
-    <td align="center" width="98">
       VS<br>Code
     </td>
     <td align="center" width="98">
       Py<br>Charm
+    </td>
+    <td align="center" width="98">
+      Flutter
+    </td>
+    <td align="center" width="98">
+      Jetpack<br>Compose
     </td>
     <td align="center" width="98">
       Adobe<br>Photoshop
@@ -192,47 +192,47 @@
   <tr>
     <td align="center" width="98">
       <a href="#mahmud0808-tech">
-        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="" />
+        <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/git-auto.svg" width="48" height="48" alt="" />
       </a>
     </td>
     <td align="center" width="98">
       <a href="#mahmud0808-tech">
-        <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="" />
+        <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/firebase-auto.svg" width="48" height="48" alt="" />
       </a>
     </td>
     <td align="center" width="98">
       <a href="#mahmud0808-tech">
-        <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="" />
+        <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/mongodb.svg" width="48" height="48" alt="" />
       </a>
     </td>
     <td align="center" width="98">
       <a href="#mahmud0808-tech">
-        <img src="https://skillicons.dev/icons?i=mongo" width="48" height="48" alt="" />
+        <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/mysql-auto.svg" width="48" height="48" alt="" />
       </a>
     </td>
     <td align="center" width="98">
       <a href="#mahmud0808-tech">
-        <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="" />
+        <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/php-auto.svg" width="48" height="48" alt="" />
       </a>
     </td>
     <td align="center" width="98">
       <a href="#mahmud0808-tech">
-        <img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="" />
+        <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/javascript.svg" width="48" height="48" alt="" />
       </a>
     </td>
     <td align="center" width="98">
       <a href="#mahmud0808-tech">
-        <img src="https://skillicons.dev/icons?i=arduino" width="48" height="48" alt="" />
+        <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/typescript.svg" width="48" height="48" alt="" />
       </a>
     </td>
     <td align="center" width="98">
       <a href="#mahmud0808-tech">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="" />
+        <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/bash-auto.svg" width="48" height="48" alt="" />
       </a>
     </td>
     <td align="center" width="98">
       <a href="#mahmud0808-tech">
-        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="" />
+        <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/regex-auto.svg" width="48" height="48" alt="" />
       </a>
     </td>
   </tr>
@@ -241,20 +241,53 @@
       Git
     </td>
     <td align="center" width="98">
-      MySQL
-    </td>
-    <td align="center" width="98">
       Firebase
     </td>
     <td align="center" width="98">
       MongoDB
     </td>
     <td align="center" width="98">
+      MySQL
+    </td>
+    <td align="center" width="98">
+      PHP
+    </td>
+    <td align="center" width="98">
       JavaScript
+    </td>
+    <td align="center" width="98">
+      TypeScript
     </td>
     <td align="center" width="98">
       Bash
     </td>
+    <td align="center" width="98">
+      RegEx
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="98">
+      <a href="#mahmud0808-tech">
+        <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/arduino.svg" width="48" height="48" alt="" />
+      </a>
+    </td>
+    <td align="center" width="98">
+      <a href="#mahmud0808-tech">
+        <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/html.svg" width="48" height="48" alt="" />
+      </a>
+    </td>
+    <td align="center" width="98">
+      <a href="#mahmud0808-tech">
+        <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/css.svg" width="48" height="48" alt="" />
+      </a>
+    </td>
+    <td align="center" width="98">
+      <a href="#mahmud0808-tech">
+        <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/tailwindcss-auto.svg" width="48" height="48" alt="" />
+      </a>
+    </td>
+  </tr>
+  <tr>
     <td align="center" width="98">
       Arduino
     </td>
@@ -263,6 +296,9 @@
     </td>
     <td align="center" width="98">
       CSS3
+    </td>
+    <td align="center" width="98">
+      Tailwind<br>CSS
     </td>
   </tr>
 </table>
