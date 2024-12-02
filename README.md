@@ -40,17 +40,17 @@
   <tr>
     <td align="center" width="98">
       <a href="#mahmud0808-tech">
-        <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/kotlin-auto.svg" width="48" height="48" alt="" />
+        <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/kotlin-dark.svg" width="48" height="48" alt="" />
       </a>
     </td>
     <td align="center" width="98">
       <a href="#mahmud0808-tech">
-        <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/java-auto.svg" width="48" height="48" alt="" />
+        <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/java-dark.svg" width="48" height="48" alt="" />
       </a>
     </td>
     <td align="center" width="98">
       <a href="#mahmud0808-tech">
-        <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/python-auto.svg" width="48" height="48" alt="" />
+        <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/python-dark.svg" width="48" height="48" alt="" />
       </a>
     </td>
     <td align="center" width="98">
@@ -65,22 +65,22 @@
     </td>
     <td align="center" width="98">
       <a href="#mahmud0808-tech">
-        <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/dart-auto.svg" width="48" height="48" alt="" />
+        <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/dart-dark.svg" width="48" height="48" alt="" />
       </a>
     </td>
     <td align="center" width="98">
       <a href="#mahmud0808-tech">
-        <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/nodejs-auto.svg" width="48" height="48" alt="" />
+        <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/nodejs-dark.svg" width="48" height="48" alt="" />
       </a>
     </td>
     <td align="center" width="98">
       <a href="#mahmud0808-tech">
-        <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/react-auto.svg" width="48" height="48" alt="" />
+        <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/react-dark.svg" width="48" height="48" alt="" />
       </a>
     </td>
     <td align="center" width="98">
       <a href="#mahmud0808-tech">
-        <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/nextjs-auto.svg" width="48" height="48" alt="" />
+        <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/nextjs-dark.svg" width="48" height="48" alt="" />
       </a>
     </td>
   </tr>
@@ -116,27 +116,27 @@
   <tr>
     <td align="center" width="98">
       <a href="#mahmud0808-tech">
-        <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/androidstudio-auto.svg" width="48" height="48" alt="" />
+        <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/androidstudio-dark.svg" width="48" height="48" alt="" />
       </a>
     </td>
     <td align="center" width="98">
       <a href="#mahmud0808-tech">
-        <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/vscode-auto.svg" width="48" height="48" alt="" />
+        <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/vscode-dark.svg" width="48" height="48" alt="" />
       </a>
     </td>
     <td align="center" width="98">
       <a href="#mahmud0808-tech">
-        <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/pycharm-auto.svg" width="48" height="48" alt="" />
+        <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/pycharm-dark.svg" width="48" height="48" alt="" />
       </a>
     </td>
     <td align="center" width="98">
       <a href="#mahmud0808-tech">
-        <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/flutter-auto.svg" width="48" height="48" alt="" />
+        <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/flutter-dark.svg" width="48" height="48" alt="" />
       </a>
     </td>
     <td align="center" width="98">
       <a href="#mahmud0808-tech">
-        <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/jetpackcompose-auto.svg" width="48" height="48" alt="" />
+        <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/jetpackcompose-dark.svg" width="48" height="48" alt="" />
       </a>
     </td>
     <td align="center" width="98">
@@ -156,7 +156,7 @@
     </td>
     <td align="center" width="98">
       <a href="#mahmud0808-tech">
-        <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/figma-auto.svg" width="48" height="48" alt="" />
+        <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/figma-dark.svg" width="48" height="48" alt="" />
       </a>
     </td>
   </tr>
@@ -192,12 +192,12 @@
   <tr>
     <td align="center" width="98">
       <a href="#mahmud0808-tech">
-        <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/git-auto.svg" width="48" height="48" alt="" />
+        <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/git-dark.svg" width="48" height="48" alt="" />
       </a>
     </td>
     <td align="center" width="98">
       <a href="#mahmud0808-tech">
-        <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/firebase-auto.svg" width="48" height="48" alt="" />
+        <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/firebase-dark.svg" width="48" height="48" alt="" />
       </a>
     </td>
     <td align="center" width="98">
@@ -207,12 +207,7 @@
     </td>
     <td align="center" width="98">
       <a href="#mahmud0808-tech">
-        <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/mysql-auto.svg" width="48" height="48" alt="" />
-      </a>
-    </td>
-    <td align="center" width="98">
-      <a href="#mahmud0808-tech">
-        <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/php-auto.svg" width="48" height="48" alt="" />
+        <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/mysql-dark.svg" width="48" height="48" alt="" />
       </a>
     </td>
     <td align="center" width="98">
@@ -227,12 +222,17 @@
     </td>
     <td align="center" width="98">
       <a href="#mahmud0808-tech">
-        <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/bash-auto.svg" width="48" height="48" alt="" />
+        <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/php-dark.svg" width="48" height="48" alt="" />
       </a>
     </td>
     <td align="center" width="98">
       <a href="#mahmud0808-tech">
-        <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/regex-auto.svg" width="48" height="48" alt="" />
+        <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/bash-dark.svg" width="48" height="48" alt="" />
+      </a>
+    </td>
+    <td align="center" width="98">
+      <a href="#mahmud0808-tech">
+        <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/regex-dark.svg" width="48" height="48" alt="" />
       </a>
     </td>
   </tr>
@@ -250,13 +250,13 @@
       MySQL
     </td>
     <td align="center" width="98">
-      PHP
-    </td>
-    <td align="center" width="98">
       JavaScript
     </td>
     <td align="center" width="98">
       TypeScript
+    </td>
+    <td align="center" width="98">
+      PHP
     </td>
     <td align="center" width="98">
       Bash
@@ -283,7 +283,7 @@
     </td>
     <td align="center" width="98">
       <a href="#mahmud0808-tech">
-        <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/tailwindcss-auto.svg" width="48" height="48" alt="" />
+        <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/tailwindcss-dark.svg" width="48" height="48" alt="" />
       </a>
     </td>
   </tr>
