@@ -1,5 +1,5 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-<h2 align="left" id="mahmud0808-title">:wave: Hello there! I'm Mahmudul Hasan</h1>
+<h2 align="left" id="mahmud0808-title">:wave: Hello there! I'm Mahmudul Hasan Khan</h1>
 <h3 align="left">A passionate learner and developer from Bangladesh</h3>
 
 - :office: I'm an **[Undergraduate Student](https://daffodilvarsity.edu.bd/)**
