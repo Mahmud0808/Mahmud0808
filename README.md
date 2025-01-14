@@ -2,7 +2,7 @@
 <h2 align="left" id="mahmud0808-title">:wave: Hello there! I'm Mahmudul Hasan Khan</h1>
 <h3 align="left">A passionate learner and developer from Bangladesh</h3>
 
-- :office: I'm an **[Undergraduate Student](https://daffodilvarsity.edu.bd/)**
+- :office: I'm a **[Graduate in Computer Science and Engineering](https://daffodilvarsity.edu.bd/)**
 
 - :seedling: Currently learning **[Android](https://developer.android.com/)** & **[Web Development](https://www.geeksforgeeks.org/web-development/)**
 
