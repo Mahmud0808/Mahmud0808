@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=👋%20Hello%20there!%20I'm%20Mahmudul%20Hasan%20Khan&textBg=false&fontSize=36&fontAlignY=35&desc=A%20passionate%20learner%20and%20developer%20from%20Bangladesh&section=header&animation=fadeIn&descAlignY=50" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:087EE1,100:05E8BA&text=👋%20Hello%20there!%20I'm%20Mahmudul%20Hasan%20Khan&textBg=false&fontColor=ffffff&fontSize=36&fontAlignY=35&desc=A%20passionate%20learner%20and%20developer%20from%20Bangladesh&section=header&animation=fadeIn&descAlignY=50" />
 </p>
 
 - :office: I'm a graduate in **[Computer Science and Engineering](https://daffodilvarsity.edu.bd/)**
