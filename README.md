@@ -341,6 +341,12 @@
         <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/arduino.svg" width="48" height="48" alt="" />
       </a>
     </td>
+    <td align="center" width="98">
+      ‎
+    </td>
+    <td align="center" width="98">
+      ‎
+    </td>
   </tr>
   <tr>
     <td align="center" width="98">
@@ -363,6 +369,12 @@
     </td>
     <td align="center" width="98">
       Arduino
+    </td>
+    <td align="center" width="98">
+      ‎
+    </td>
+    <td align="center" width="98">
+      ‎
     </td>
   </tr>
 </table>
