@@ -388,18 +388,18 @@
     <td align="center" width="50%">
       <a href="#mahmud0808-stats">
         <picture>
-          <source srcset="https://github-readme-stats.vercel.app/api?username=mahmud0808&rank_icon=github&theme=dracula&text_bold=false&hide_border=true&bg_color=00000000&show_icons=true&hide=issues,contribs&count_private=true&include_all_commits=true" media="(prefers-color-scheme: dark)" />
-          <source srcset="https://github-readme-stats.vercel.app/api?username=mahmud0808&rank_icon=github&theme=buefy&show_icons=true&hide_border=true&text_bold=false&hide=issues,contribs&count_private=true&include_all_commits=true&bg_color=00000000" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-          <img src="https://github-readme-stats.vercel.app/api?username=mahmud0808&rank_icon=github&theme=buefy&show_icons=true&hide_border=true&text_bold=false&hide=issues,contribs&count_private=true&include_all_commits=true&bg_color=00000000" alt="Stats" />
+          <source srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=mahmud0808&rank_icon=github&theme=dracula&text_bold=false&hide_border=true&bg_color=00000000&show_icons=true&hide=issues,contribs&count_private=true&include_all_commits=true" media="(prefers-color-scheme: dark)" />
+          <source srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=mahmud0808&rank_icon=github&theme=buefy&show_icons=true&hide_border=true&text_bold=false&hide=issues,contribs&count_private=true&include_all_commits=true&bg_color=00000000" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+          <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=mahmud0808&rank_icon=github&theme=buefy&show_icons=true&hide_border=true&text_bold=false&hide=issues,contribs&count_private=true&include_all_commits=true&bg_color=00000000" alt="Stats" />
         </picture>
       </a>
     </td>
     <td align="center" width="50%">
       <a href="#mahmud0808-stats">
         <picture>
-          <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmud0808&layout=compact&theme=dracula&text_bold=false&hide_border=true&bg_color=00000000" media="(prefers-color-scheme: dark)" />
-          <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmud0808&layout=compact&theme=buefy&text_bold=false&hide_border=true&bg_color=00000000" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmud0808&layout=compact&theme=buefy&text_bold=false&hide_border=true" alt="Top Langs" />
+          <source srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mahmud0808&layout=compact&theme=dracula&text_bold=false&hide_border=true&bg_color=00000000" media="(prefers-color-scheme: dark)" />
+          <source srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mahmud0808&layout=compact&theme=buefy&text_bold=false&hide_border=true&bg_color=00000000" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+          <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mahmud0808&layout=compact&theme=buefy&text_bold=false&hide_border=true" alt="Top Langs" />
         </picture>
       </a>
     </td>
@@ -416,7 +416,7 @@
       </a>
     </td>
     <td align="center" width="50%">
-      <a href="#mahmud0808-stats"><img src="https://github-profile-trophy.vercel.app/?username=mahmud0808&theme=dark_lover&row=2&column=3&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&no-frame=true&margin-w=6&margin-h=6&no-bg=true" alt="Tr" /></a>
+      <a href="#mahmud0808-stats"><img src="https://github-profile-trophy-roan.vercel.app/?username=mahmud0808&theme=dark_lover&row=2&column=3&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&no-frame=true&margin-w=6&margin-h=6&no-bg=true" alt="Tr" /></a>
     </td>
   </tr>
 </table>
