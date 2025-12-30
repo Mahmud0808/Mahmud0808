@@ -397,9 +397,9 @@
     <td align="center" width="50%">
       <a href="#mahmud0808-stats">
         <picture>
-          <source srcset="https://github-readme-stats-mahmud0808.vercel.app/api/top-langs/?username=mahmud0808&layout=compact&theme=dracula&text_bold=false&hide_border=true&bg_color=00000000" media="(prefers-color-scheme: dark)" />
-          <source srcset="https://github-readme-stats-mahmud0808.vercel.app/api/top-langs/?username=mahmud0808&layout=compact&theme=buefy&text_bold=false&hide_border=true&bg_color=00000000" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-          <img src="https://github-readme-stats-mahmud0808.vercel.app/api/top-langs/?username=mahmud0808&layout=compact&theme=buefy&text_bold=false&hide_border=true" alt="Top Langs" />
+          <source srcset="https://github-readme-stats-mahmud0808.vercel.app/api/top-langs/?username=mahmud0808&layout=compact&theme=dracula&text_bold=false&hide_border=true&bg_color=00000000&hide=html" media="(prefers-color-scheme: dark)" />
+          <source srcset="https://github-readme-stats-mahmud0808.vercel.app/api/top-langs/?username=mahmud0808&layout=compact&theme=buefy&text_bold=false&hide_border=true&bg_color=00000000&hide=html" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+          <img src="https://github-readme-stats-mahmud0808.vercel.app/api/top-langs/?username=mahmud0808&layout=compact&theme=buefy&text_bold=false&hide_border=true&hide=html" alt="Top Langs" />
         </picture>
       </a>
     </td>
