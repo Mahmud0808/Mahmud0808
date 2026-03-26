@@ -416,7 +416,7 @@
       </a>
     </td>
     <td align="center" width="50%">
-      <a href="#mahmud0808-stats"><img src="https://github-profile-trophy-roan.vercel.app/?username=mahmud0808&theme=dark_lover&row=2&column=3&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&no-frame=true&margin-w=6&margin-h=6&no-bg=true" alt="Tr" /></a>
+      <a href="#mahmud0808-stats"><img src="https://github-profile-trophy-tawny.vercel.app/?username=mahmud0808&theme=dark_lover&row=2&column=3&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&no-frame=true&margin-w=6&margin-h=6&no-bg=true" alt="Tr" /></a>
     </td>
   </tr>
 </table>
