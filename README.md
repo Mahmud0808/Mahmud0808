@@ -134,6 +134,9 @@
       Java
     </td>
     <td align="center" width="98">
+      Dart
+    </td>
+    <td align="center" width="98">
       Python
     </td>
     <td align="center" width="98">
