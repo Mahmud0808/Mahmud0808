@@ -76,6 +76,8 @@
 
 > Tools, languages and other things that I like to work with.
 
+<h3 align="left">🧑‍💻 Languages</h3>
+
 <table>
   <tr>
     <td align="center" width="98">
@@ -86,6 +88,11 @@
     <td align="center" width="98">
       <a href="#mahmud0808-tech">
         <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/java-dark.svg" width="48" height="48" alt="" />
+      </a>
+    </td>
+    <td align="center" width="98">
+      <a href="#mahmud0808-tech">
+        <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/dart-dark.svg" width="48" height="48" alt="" />
       </a>
     </td>
     <td align="center" width="98">
@@ -105,22 +112,17 @@
     </td>
     <td align="center" width="98">
       <a href="#mahmud0808-tech">
-        <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/dart-dark.svg" width="48" height="48" alt="" />
+        <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/javascript.svg" width="48" height="48" alt="" />
       </a>
     </td>
     <td align="center" width="98">
       <a href="#mahmud0808-tech">
-        <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/nodejs-dark.svg" width="48" height="48" alt="" />
+        <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/typescript.svg" width="48" height="48" alt="" />
       </a>
     </td>
     <td align="center" width="98">
       <a href="#mahmud0808-tech">
-        <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/react-dark.svg" width="48" height="48" alt="" />
-      </a>
-    </td>
-    <td align="center" width="98">
-      <a href="#mahmud0808-tech">
-        <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/nextjs-dark.svg" width="48" height="48" alt="" />
+        <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/php-dark.svg" width="48" height="48" alt="" />
       </a>
     </td>
   </tr>
@@ -141,27 +143,52 @@
       C++
     </td>
     <td align="center" width="98">
-      Dart
+      JavaScript
     </td>
     <td align="center" width="98">
-      Node.js
+      TypeScript
     </td>
     <td align="center" width="98">
-      React
-    </td>
-    <td align="center" width="98">
-      Next.js
+      PHP
     </td>
   </tr>
   <tr>
     <td align="center" width="98">
       <a href="#mahmud0808-tech">
-        <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/jetpackcompose-dark.svg" width="48" height="48" alt="" />
+        <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/html.svg" width="48" height="48" alt="" />
       </a>
     </td>
     <td align="center" width="98">
       <a href="#mahmud0808-tech">
-        <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/spring-dark.svg" width="48" height="48" alt="" />
+        <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/css.svg" width="48" height="48" alt="" />
+      </a>
+    </td>
+    <td align="center" width="98">
+      <a href="#mahmud0808-tech">
+        <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/bash-dark.svg" width="48" height="48" alt="" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="98">
+      HTML5
+    </td>
+    <td align="center" width="98">
+      CSS3
+    </td>
+    <td align="center" width="98">
+      Bash
+    </td>
+  </tr>
+</table>
+
+<h3 align="left">🏗️ Frameworks & Libraries</h3>
+
+<table>
+  <tr>
+    <td align="center" width="98">
+      <a href="#mahmud0808-tech">
+        <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/jetpackcompose-dark.svg" width="48" height="48" alt="" />
       </a>
     </td>
     <td align="center" width="98">
@@ -181,12 +208,22 @@
     </td>
     <td align="center" width="98">
       <a href="#mahmud0808-tech">
-        <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/javascript.svg" width="48" height="48" alt="" />
+        <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/spring-dark.svg" width="48" height="48" alt="" />
       </a>
     </td>
     <td align="center" width="98">
       <a href="#mahmud0808-tech">
-        <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/typescript.svg" width="48" height="48" alt="" />
+        <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/nodejs-dark.svg" width="48" height="48" alt="" />
+      </a>
+    </td>
+    <td align="center" width="98">
+      <a href="#mahmud0808-tech">
+        <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/react-dark.svg" width="48" height="48" alt="" />
+      </a>
+    </td>
+    <td align="center" width="98">
+      <a href="#mahmud0808-tech">
+        <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/nextjs-dark.svg" width="48" height="48" alt="" />
       </a>
     </td>
     <td align="center" width="98">
@@ -194,18 +231,10 @@
         <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/tailwindcss-dark.svg" width="48" height="48" alt="" />
       </a>
     </td>
-    <td align="center" width="98">
-      <a href="#mahmud0808-tech">
-        <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/php-dark.svg" width="48" height="48" alt="" />
-      </a>
-    </td>
   </tr>
   <tr>
     <td align="center" width="98">
       Jetpack<br>Compose
-    </td>
-    <td align="center" width="98">
-      Spring<br>Boot
     </td>
     <td align="center" width="98">
       Flutter
@@ -217,29 +246,27 @@
       Expo
     </td>
     <td align="center" width="98">
-      JavaScript
+      Spring<br>Boot
     </td>
     <td align="center" width="98">
-      TypeScript
+      Node.js
+    </td>
+    <td align="center" width="98">
+      React
+    </td>
+    <td align="center" width="98">
+      Next.js
     </td>
     <td align="center" width="98">
       Tailwind<br>CSS
     </td>
-    <td align="center" width="98">
-      PHP
-    </td>
   </tr>
+</table>
+
+<h3 align="left">🛠️ Tools & Platforms</h3>
+
+<table>
   <tr>
-    <td align="center" width="98">
-      <a href="#mahmud0808-tech">
-        <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/html.svg" width="48" height="48" alt="" />
-      </a>
-    </td>
-    <td align="center" width="98">
-      <a href="#mahmud0808-tech">
-        <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/css.svg" width="48" height="48" alt="" />
-      </a>
-    </td>
     <td align="center" width="98">
       <a href="#mahmud0808-tech">
         <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/androidstudio-dark.svg" width="48" height="48" alt="" />
@@ -255,6 +282,122 @@
         <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/pycharm-dark.svg" width="48" height="48" alt="" />
       </a>
     </td>
+    <td align="center" width="98">
+      <a href="#mahmud0808-tech">
+        <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/git-dark.svg" width="48" height="48" alt="" />
+      </a>
+    </td>
+    <td align="center" width="98">
+      <a href="#mahmud0808-tech">
+        <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/regex-dark.svg" width="48" height="48" alt="" />
+      </a>
+    </td>
+    <td align="center" width="98">
+      <a href="#mahmud0808-tech">
+        <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/arduino.svg" width="48" height="48" alt="" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="98">
+      Android<br>Studio
+    </td>
+    <td align="center" width="98">
+      VS<br>Code
+    </td>
+    <td align="center" width="98">
+      Py<br>Charm
+    </td>
+    <td align="center" width="98">
+      Git
+    </td>
+    <td align="center" width="98">
+      RegEx
+    </td>
+    <td align="center" width="98">
+      Arduino
+    </td>
+  </tr>
+</table>
+
+<h3 align="left">🤖 AI Assistants</h3>
+
+<table>
+  <tr>
+    <td align="center" width="98">
+      <a href="#mahmud0808-tech">
+        <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/claude-dark.svg" width="48" height="48" alt="" />
+      </a>
+    </td>
+    <td align="center" width="98">
+      <a href="#mahmud0808-tech">
+        <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/gemini-dark.svg" width="48" height="48" alt="" />
+      </a>
+    </td>
+    <td align="center" width="98">
+      <a href="#mahmud0808-tech">
+        <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/chatgpt-dark.svg" width="48" height="48" alt="" />
+      </a>
+    </td>
+    <td align="center" width="98">
+      <a href="#mahmud0808-tech">
+        <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/grok-dark.svg" width="48" height="48" alt="" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="98">
+      Claude
+    </td>
+    <td align="center" width="98">
+      Gemini
+    </td>
+    <td align="center" width="98">
+      ChatGPT
+    </td>
+    <td align="center" width="98">
+      Grok
+    </td>
+  </tr>
+</table>
+
+<h3 align="left">☁️ Databases & Cloud</h3>
+
+<table>
+  <tr>
+    <td align="center" width="98">
+      <a href="#mahmud0808-tech">
+        <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/firebase-dark.svg" width="48" height="48" alt="" />
+      </a>
+    </td>
+    <td align="center" width="98">
+      <a href="#mahmud0808-tech">
+        <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/mongodb.svg" width="48" height="48" alt="" />
+      </a>
+    </td>
+    <td align="center" width="98">
+      <a href="#mahmud0808-tech">
+        <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/mysql-dark.svg" width="48" height="48" alt="" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="98">
+      Firebase
+    </td>
+    <td align="center" width="98">
+      MongoDB
+    </td>
+    <td align="center" width="98">
+      MySQL
+    </td>
+  </tr>
+</table>
+
+<h3 align="left">🎨 Design</h3>
+
+<table>
+  <tr>
     <td align="center" width="98">
       <a href="#mahmud0808-tech">
         <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/photoshop.svg" width="48" height="48" alt="" />
@@ -278,21 +421,6 @@
   </tr>
   <tr>
     <td align="center" width="98">
-      HTML5
-    </td>
-    <td align="center" width="98">
-      CSS3
-    </td>
-    <td align="center" width="98">
-      Android<br>Studio
-    </td>
-    <td align="center" width="98">
-      VS<br>Code
-    </td>
-    <td align="center" width="98">
-      Py<br>Charm
-    </td>
-    <td align="center" width="98">
       Adobe<br>Photoshop
     </td>
     <td align="center" width="98">
@@ -303,78 +431,6 @@
     </td>
     <td align="center" width="98">
       Figma
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="98">
-      <a href="#mahmud0808-tech">
-        <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/git-dark.svg" width="48" height="48" alt="" />
-      </a>
-    </td>
-    <td align="center" width="98">
-      <a href="#mahmud0808-tech">
-        <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/firebase-dark.svg" width="48" height="48" alt="" />
-      </a>
-    </td>
-    <td align="center" width="98">
-      <a href="#mahmud0808-tech">
-        <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/mongodb.svg" width="48" height="48" alt="" />
-      </a>
-    </td>
-    <td align="center" width="98">
-      <a href="#mahmud0808-tech">
-        <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/mysql-dark.svg" width="48" height="48" alt="" />
-      </a>
-    </td>
-    <td align="center" width="98">
-      <a href="#mahmud0808-tech">
-        <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/bash-dark.svg" width="48" height="48" alt="" />
-      </a>
-    </td>
-    <td align="center" width="98">
-      <a href="#mahmud0808-tech">
-        <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/regex-dark.svg" width="48" height="48" alt="" />
-      </a>
-    </td>
-    <td align="center" width="98">
-      <a href="#mahmud0808-tech">
-        <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/arduino.svg" width="48" height="48" alt="" />
-      </a>
-    </td>
-    <td align="center" width="98">
-      ‎
-    </td>
-    <td align="center" width="98">
-      ‎
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="98">
-      Git
-    </td>
-    <td align="center" width="98">
-      Firebase
-    </td>
-    <td align="center" width="98">
-      MongoDB
-    </td>
-    <td align="center" width="98">
-      MySQL
-    </td>
-    <td align="center" width="98">
-      Bash
-    </td>
-    <td align="center" width="98">
-      RegEx
-    </td>
-    <td align="center" width="98">
-      Arduino
-    </td>
-    <td align="center" width="98">
-      ‎
-    </td>
-    <td align="center" width="98">
-      ‎
     </td>
   </tr>
 </table>
