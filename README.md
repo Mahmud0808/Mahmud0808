@@ -76,7 +76,7 @@
 
 > Tools, languages and other things that I like to work with.
 
-<h3 align="left">🧑‍💻 Languages</h3>
+<h3 align="left">Languages</h3>
 
 <table>
   <tr>
@@ -185,7 +185,7 @@
   </tr>
 </table>
 
-<h3 align="left">🏗️ Frameworks & Libraries</h3>
+<h3 align="left">Frameworks & Libraries</h3>
 
 <table>
   <tr>
@@ -266,7 +266,7 @@
   </tr>
 </table>
 
-<h3 align="left">🛠️ Tools & Platforms</h3>
+<h3 align="left">Tools & Platforms</h3>
 
 <table>
   <tr>
@@ -323,7 +323,7 @@
   </tr>
 </table>
 
-<h3 align="left">🤖 AI Assistants</h3>
+<h3 align="left">AI Assistants</h3>
 
 <table>
   <tr>
@@ -364,7 +364,7 @@
   </tr>
 </table>
 
-<h3 align="left">☁️ Databases & Cloud</h3>
+<h3 align="left">Databases & Cloud</h3>
 
 <table>
   <tr>
@@ -397,7 +397,7 @@
   </tr>
 </table>
 
-<h3 align="left">🎨 Design</h3>
+<h3 align="left">Design</h3>
 
 <table>
   <tr>
